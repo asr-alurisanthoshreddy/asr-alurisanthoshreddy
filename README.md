@@ -1,4 +1,4 @@
-         - 👋 Hi, I’m **Aluri Santhosh Reddy** (@asr-alurisanthoshreddy)  
+- 👋 Hi, I’m **Aluri Santhosh Reddy** (@asr-alurisanthoshreddy)  
 - 👀 I’m passionate about **Artificial Intelligence**, **Machine Learning**, and **Cloud Computing**. I’m always exploring how cutting-edge technology can be used to solve real-world problems.  
 - 🌱 I’m currently learning more about **Deep Learning**, **Natural Language Processing (NLP)**, and how **AI** can be leveraged for social good.  
 - 💞️ I’m looking to collaborate on **AI-driven projects**, **machine learning research**, or **cloud-based solutions** that can create impactful innovations.  

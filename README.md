@@ -1,3 +1,5 @@
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="aluri-santhosh-reddy-812178291" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/aluri-santhosh-reddy-812178291?trk=profile-badge">ALURI SANTHOSH REDDY</a></div>
+              
 - 👋 Hi, I’m **Aluri Santhosh Reddy** (@asr-alurisanthoshreddy)  
 - 👀 I’m passionate about **Artificial Intelligence**, **Machine Learning**, and **Cloud Computing**. I’m always exploring how cutting-edge technology can be used to solve real-world problems.  
 - 🌱 I’m currently learning more about **Deep Learning**, **Natural Language Processing (NLP)**, and how **AI** can be leveraged for social good.  

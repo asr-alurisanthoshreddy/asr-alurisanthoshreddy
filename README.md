@@ -270,7 +270,7 @@ Manual cervical cancer screening is slow, clinician-dependent, and often late. I
 | 🎖️ Certification | 🏢 Issuer | 📅 Date |
 |:------------------|:---------|:--------|
 | **Salesforce Certified Agentforce Specialist** | Salesforce | Dec 2025 |
-| **Trailhead Ranger** — 100+ hands-on modules | Salesforce | Ongoing |
+| **Trailhead Ranger** — 100+ hands-on modules | Salesforce
 | **Oracle Database @ AWS — Architect Professional** | Oracle | Oct 2025 |
 | **OCI 2025 Certified AI Foundations Associate** | Oracle | Aug 2025 |
 
